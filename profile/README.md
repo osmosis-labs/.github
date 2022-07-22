@@ -23,6 +23,7 @@ Go to https://get.osmosis.zone to quickstart setting up a node!
 ## Frontend
 
 - [telescope](https://github.com/osmosis-labs/telescope) ([npm](https://www.npmjs.com/package/@osmonauts/telescope)) - Protobuf transpilation tooling, to easily setup TypeScript clients to interact with Cosmos chains.
+- [osmojs](https://github.com/osmosis-labs/osmojs) ([npm](https://www.npmjs.com/package/osmojs)) - Easily compose and broadcast Osmosis and Cosmos messages.
 - [osmosis-frontend](https://github.com/osmosis-labs/osmosis-frontend) - Frontend implementation for the Osmosis blockchain. There are many front-ends in the ecosystem. Includes npm packages for [math](https://www.npmjs.com/package/@osmosis-labs/math), [pools](https://www.npmjs.com/package/@osmosis-labs/pools), and data [stores](https://www.npmjs.com/package/@osmosis-labs/stores) to enable other developers to quickly create their own Osmosis frontends.
 
 <!--
