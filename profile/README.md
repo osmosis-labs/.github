@@ -16,9 +16,9 @@ Go to https://get.osmosis.zone to quickstart setting up a node!
 ## Cosmwasm ecosystem
 
 * [beaker](https://github.com/osmosis-labs/beaker) - Dev tooling for cosmwasm contracts
-* [osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Library of Stargate messages, queries and bindings for Osmosis, along with sample contracts.
-
-(TODO: Link to sample contracts here)
+* [osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Collection of Rust related crates for Osmosis
+  * [osmosis-std](https://github.com/osmosis-labs/osmosis-rust/tree/main/packages/osmosis-std) Library of Stargate messages, queries and bindings for Osmosis, along with sample contracts.
+    * [osmosis-stargate-contract](https://github.com/osmosis-labs/osmosis-rust/tree/main/examples/cosmwasm) An example that use `osmosis-std` for interacting with native Osmosis' module
 
 ## JS tooling
 
