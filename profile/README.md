@@ -1,6 +1,6 @@
 # Osmosis Labs
 
-Repositories for the Osmosis AMM and tooling for Cosmos.
+Repositories for the Osmosis blockchain and tooling for Cosmos.
 
 The Osmosis blockchain is a decentralized network, ran by 100+ validators and full nodes, with many front-ends and development teams on it.
 
@@ -13,18 +13,18 @@ Documentation can be found at [docs.osmosis.zone](https://docs.osmosis.zone/).
 
 Go to https://get.osmosis.zone to quickstart setting up a node!
 
-### Cosmwasm ecosystem
-
-- [beaker](https://github.com/osmosis-labs/beaker) - Dev tooling for cosmwasm contracts.
-- [osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Library of Stargate messages, queries and bindings for Osmosis, along with sample contracts.
-
-(TODO: Link to sample contracts here)
-
 ## Frontend
 
 - [telescope](https://github.com/osmosis-labs/telescope) ([npm](https://www.npmjs.com/package/@osmonauts/telescope)) - Protobuf transpilation tooling, to easily setup TypeScript clients to interact with Cosmos chains.
 - [osmojs](https://github.com/osmosis-labs/osmojs) ([npm](https://www.npmjs.com/package/osmojs)) - Easily compose and broadcast Osmosis and Cosmos messages.
 - [osmosis-frontend](https://github.com/osmosis-labs/osmosis-frontend) - Frontend implementation for the Osmosis blockchain. There are many front-ends in the ecosystem. Includes npm packages for [math](https://www.npmjs.com/package/@osmosis-labs/math), [pools](https://www.npmjs.com/package/@osmosis-labs/pools), and data [stores](https://www.npmjs.com/package/@osmosis-labs/stores) to enable other developers to quickly create their own Osmosis frontends.
+
+### Cosmwasm ecosystem
+
+- [beaker](https://github.com/osmosis-labs/beaker) - Dev tooling for cosmwasm contracts.
+- [osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Library of Stargate messages, queries and bindings for Osmosis, along with sample contracts.
+
+<!-- (TODO: Link to sample contracts here) -->
 
 <!--
 
