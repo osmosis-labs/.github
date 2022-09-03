@@ -1,6 +1,6 @@
 # Osmosis Labs
 
-Repositories for the Osmosis blockchain and tooling for Cosmos.
+Repositories for the Osmosis blockchain (built with the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk)) and tooling for Cosmos.
 
 The Osmosis blockchain is a decentralized network, ran by 100+ validators and full nodes, with many front-ends and development teams on it.
 
