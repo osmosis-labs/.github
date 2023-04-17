@@ -16,6 +16,7 @@ Go to https://get.osmosis.zone to quickstart setting up a node!
 ## Cosmwasm ecosystem
 
 * [beaker](https://github.com/osmosis-labs/beaker) - Dev tooling for cosmwasm contracts
+* [test-tube](https://github.com/osmosis-labs/test-tube) - Generic library for building testing environments for CosmWasm smart contracts.
 * [osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Library of Stargate messages, queries and bindings for Osmosis, along with sample contracts.
 
 (TODO: Link to sample contracts here)
